@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qual è l'obiettivo principale del layout nelle operations?",
+    "choices": ["Massimizzare i profitti", "Minimizzare i costi", "Creare armonia nel processo", "Aumentare la varietà dei prodotti"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una tipologia di layout menzionata nelle slide?",
+    "choices": ["Layout verticale", "Layout funzionale", "Layout a matrice", "Layout circolare"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Nel modello delle 4V, cosa rappresenta la 'varietà'?",
+    "choices": ["Il numero di prodotti diversi", "La variabilità della domanda", "Il livello di visibilità", "Il contatto con il cliente"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica del 'job shop'?",
+    "choices": ["Alto volume", "Alta varietà", "Bassi costi unitari", "Alta standardizzazione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cos'è la 'produzione a lotti'?",
+    "choices": ["Produzione di grandi volumi con bassa varietà", "Produzione di piccoli volumi con alta varietà", "Produzione di volumi medi con una certa varietà", "Produzione continua senza interruzioni"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è un esempio di produzione continua?",
+    "choices": ["Produzione di automobili", "Produzione tessile", "Produzione di raffinerie", "Produzione di mobili"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti non è una delle 4V nelle operations?",
+    "choices": ["Volume", "Varietà", "Visibilità", "Valore"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti descrive meglio il concetto di 'mass customization'?",
+    "choices": ["Produzione di massa con bassa varietà", "Produzione personalizzata con alta varietà", "Produzione di massa con elementi personalizzati", "Produzione di piccoli lotti con alta varietà"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica della 'produzione in linea'?",
+    "choices": ["Alta varietà", "Alta flessibilità", "Bassi costi unitari", "Alto livello di personalizzazione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è vera per il layout a cella?",
+    "choices": ["Bassa produttività", "Alta flessibilità", "Alti costi unitari", "Alta motivazione del team"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è una caratteristica del layout a posizione fissa?",
+    "choices": ["Prodotto che si sposta tra le varie stazioni", "Risorse simili collocate insieme", "Prodotto che non si muove", "Bassa flessibilità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti descrive il layout a linea?",
+    "choices": ["Alta flessibilità", "Alto costo unitario", "Bassa robustezza alle interruzioni", "Alta complessità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una tipologia di processo produttivo con alta varietà e basso volume?",
+    "choices": ["Progetto", "Linea", "Batch", "Ciclo continuo"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica della 'servitization'?",
+    "choices": ["Produzione di beni tangibili", "Fornitura di servizi aggiuntivi ai prodotti", "Standardizzazione dei processi", "Riduzione della varietà"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti non è una caratteristica del layout funzionale?",
+    "choices": ["Risorse simili sono collocate insieme", "Alta flessibilità", "Prodotti seguono percorsi diversi", "Bassi costi unitari"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è una caratteristica del 'process layout'?",
+    "choices": ["Alta flessibilità", "Bassi costi unitari", "Alta ripetibilità", "Bassa varietà"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è vera per il 'batch production'?",
+    "choices": ["Bassa varietà", "Alto volume", "Ripetitività media", "Produzione di massa"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti descrive meglio il concetto di 'variazione della domanda' nel modello delle 4V?",
+    "choices": ["Il numero di prodotti diversi offerti", "La fluttuazione della domanda nel tempo", "Il contatto diretto con il cliente", "Il volume di produzione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una tipologia di servizio menzionata nelle slide?",
+    "choices": ["Service shop", "Service line", "Service grid", "Service matrix"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è una delle sfide del layout a posizione fissa?",
+    "choices": ["Alta flessibilità", "Bassa complessità", "Alti costi unitari", "Alta standardizzazione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è una caratteristica della 'produzione a ciclo continuo'?",
+    "choices": ["Alta varietà", "Bassi costi unitari", "Alta ripetibilità", "Alta complessità"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti descrive meglio il layout a linea?",
+    "choices": ["Alta flessibilità", "Alti costi unitari", "Bassa robustezza alle interruzioni", "Alta varietà"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è uno dei vantaggi della standardizzazione nelle operations?",
+    "choices": ["Alta varietà", "Alta complessità", "Bassi costi unitari", "Alta flessibilità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una tipologia di processo di servizio menzionata nelle slide?",
+    "choices": ["Mass service", "Custom service", "Batch service", "Project service"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica della produzione in linea?",
+    "choices": ["Alta flessibilità", "Bassi costi unitari", "Alta varietà", "Alta complessità"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti descrive meglio la 'variazione della domanda' nel modello delle 4V?",
+    "choices": ["Numero di prodotti diversi offerti", "Fluttuazione della domanda nel tempo", "Contatto diretto con il cliente", "Volume di produzione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno svantaggio del layout a linea?",
+    "choices": ["Alta robustezza alle interruzioni", "Bassa standardizzazione", "Alta flessibilità", "Bassa robustezza alle interruzioni"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti descrive meglio il concetto di 'servitization'?",
+    "choices": ["Produzione di beni tangibili", "Fornitura di servizi aggiuntivi ai prodotti", "Standardizzazione dei processi", "Riduzione della varietà"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è una delle sfide del layout a posizione fissa?",
+    "choices": ["Alta flessibilità", "Bassa complessità", "Alti costi unitari", "Alta standardizzazione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica della produzione a ciclo continuo?",
+    "choices": ["Alta varietà", "Bassi costi unitari", "Alta ripetibilità", "Alta complessità"],
+    "correctAnswer": 1
+  }
+]

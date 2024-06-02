@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Quali sono le tre tipologie di acquisto identificate dal Buygrid Model?",
+    "choices": ["Nuovo acquisto, riacquisto diretto, riacquisto modificato", "Acquisto di routine, riacquisto parziale, riacquisto diretto", "Nuovo acquisto, acquisto parziale, riacquisto diretto", "Acquisto di routine, acquisto parziale, acquisto complesso"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale fase non è considerata strategica nel processo di acquisto?",
+    "choices": ["Selezione fornitori", "Follow-up e valutazione", "Definizione specifiche", "Ordine"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è la prima fase del modello Buygrid?",
+    "choices": ["Determinazione delle caratteristiche desiderate", "Anticipazione e riconoscimento del problema", "Ricerca dei potenziali fornitori", "Acquisizione ed analisi delle proposte"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In quale tipologia di acquisto è richiesta particolare attenzione nella definizione delle specifiche?",
+    "choices": ["Nuovo acquisto", "Riacquisto diretto", "Riacquisto modificato", "Acquisto di routine"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è un esempio di criterio utilizzato nella Vendor Grid?",
+    "choices": ["Qualità", "Prezzo", "Competenza tecnica", "Tutti i precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è uno degli obiettivi del Supplier Assessment?",
+    "choices": ["Selezionare il fornitore più economico", "Selezionare il fornitore più vicino", "Offrire opportunità di identificazione di nuovi fornitori", "Eliminare fornitori esistenti"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è il principale vantaggio del Total Cost of Ownership (TCO)?",
+    "choices": ["Riduce i costi di trasporto", "Considera tutti i costi associati all'acquisto e all'utilizzo di un bene", "Aumenta la qualità del prodotto", "Riduce il tempo di consegna"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale di questi è un costo post-transazione nel TCO?",
+    "choices": ["Costi di consegna", "Costi di dismissione", "Prezzo di acquisto", "Costi finanziari"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è una delle fasi del processo di approvvigionamento?",
+    "choices": ["Analisi delle vendite", "Definizione delle specifiche", "Gestione delle risorse umane", "Pianificazione delle attività"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è l'obiettivo della contrattazione nel processo di acquisto?",
+    "choices": ["Ridurre il numero di fornitori", "Formalizzare i dettagli dell'acquisto", "Aumentare il prezzo di acquisto", "Evitare la selezione dei fornitori"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale fase del modello Buygrid coinvolge il monitoraggio dell'avanzamento dell'ordine di acquisto?",
+    "choices": ["Ricerca dei potenziali fornitori", "Expediting", "Selezione dei fornitori", "Valutazione delle proposte"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è una delle categorie fondamentali utilizzate da ENEL nel Vendor Rating?",
+    "choices": ["Prezzo", "Qualità", "Marketing", "Distribuzione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è il livello di analisi TCO che si concentra sulla misurazione delle performance dei fornitori?",
+    "choices": ["Strategico", "Tattico", "Operativo", "Analitico"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti attività è parte della gestione post-acquisto?",
+    "choices": ["Definizione delle specifiche", "Selezione dei fornitori", "Emissione degli ordini", "Valutazione delle prestazioni dei fornitori"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale fase del processo di approvvigionamento richiede la raccolta di informazioni e la scoperta di nuove opportunità?",
+    "choices": ["Contrattazione", "Identificazione dei fornitori", "Definizione delle specifiche", "Follow-up e valutazione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale strumento operativo viene utilizzato per comparare i fornitori considerando tutti i costi associati all'acquisto?",
+    "choices": ["Vendor Grid", "Total Cost of Ownership (TCO)", "Buygrid Model", "Analytical Hierarchy Process (AHP)"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è una delle fasi strategiche del processo di approvvigionamento?",
+    "choices": ["Contrattazione", "Definizione delle specifiche", "Ordine", "Spedizione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è l'obiettivo del processo di selezione dei fornitori?",
+    "choices": ["Ridurre i costi di marketing", "Identificare i migliori fornitori disponibili", "Aumentare i costi di produzione", "Evitare contratti a lungo termine"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In quale situazione di acquisto il cliente ha poca o nessuna esperienza?",
+    "choices": ["Riacquisto diretto", "Riacquisto modificato", "Nuovo acquisto", "Acquisto di routine"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale fase del Buygrid Model prevede l'acquisizione e l'analisi delle proposte dei fornitori?",
+    "choices": ["Anticipazione e riconoscimento del problema", "Ricerca dei potenziali fornitori", "Acquisizione ed analisi delle proposte", "Valutazione delle proposte e selezione dei fornitori"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale strumento operativo utilizza una valutazione ponderata basata su diversi criteri?",
+    "choices": ["Vendor Grid", "Total Cost of Ownership (TCO)", "Buygrid Model", "Analytical Hierarchy Process (AHP)"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica del riacquisto diretto?",
+    "choices": ["Alto livello di incertezza", "Prodotto conosciuto e già in utilizzo", "Bisogno di nuove informazioni", "Insoddisfazione con l'attuale fornitore"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti fasi è considerata operativa nel processo di acquisto?",
+    "choices": ["Definizione delle specifiche", "Follow-up e valutazione", "Selezione fornitori", "Spedizione"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale fase del Buygrid Model coinvolge la selezione di una routine per l'ordine?",
+    "choices": ["Ricerca dei potenziali fornitori", "Determinazione delle caratteristiche desiderate", "Selezione di una routine per l'ordine", "Valutazione e feedback della performance dell'ordine"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale strumento operativo è ideale per classificare diverse alternative sulla base di criteri?",
+    "choices": ["Vendor Grid", "Total Cost of Ownership (TCO)", "Buygrid Model", "Analytical Hierarchy Process (AHP)"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti attività non è inclusa nel monitoraggio e controllo degli ordini?",
+    "choices": ["Expediting", "Order tracking", "Ricerca dei potenziali fornitori", "Ispezione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale fase del processo di approvvigionamento prevede la gestione di eventuali reclami ai fornitori?",
+    "choices": ["Identificazione dei fornitori", "Selezione dei fornitori", "Contrattazione", "Post-acquisto e valutazione dei fornitori"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è uno degli strumenti utilizzati per la valutazione delle offerte ricevute dai fornitori?",
+    "choices": ["Vendor Grid", "Total Cost of Ownership (TCO)", "Analytical Hierarchy Process (AHP)", "Tutti i precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è una delle attività svolte durante l'emissione degli ordini?",
+    "choices": ["Contrattazione delle condizioni", "Richiesta di assistenza", "Selezione dei fornitori", "Definizione delle specifiche"],
+    "correctAnswer": 0
+  }
+]

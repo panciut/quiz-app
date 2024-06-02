@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quale delle seguenti è una strategia di produzione adottata da Apple?",
+    "choices": ["Produzione a basso costo", "Lunga durata dei prodotti", "Promozioni spettacolari e introduzioni", "Bassa qualità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale tipo di flessibilità è richiesta nella strategia operativa di Apple?",
+    "choices": ["Flessibilità del prodotto", "Flessibilità del volume", "Flessibilità del mix di prodotti", "Tutte le precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è la differenza principale tra gestione operativa e strategia operativa?",
+    "choices": ["Tempo di analisi", "Livello di dettaglio", "Obiettivo a lungo termine", "Tutte le precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti non è una delle fonti di vantaggio competitivo menzionate nelle slide?",
+    "choices": ["Basso costo e economie di scala", "Personalizzazione", "Innovazione tecnologica", "Qualità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale prospettiva di strategia operativa riguarda ciò che le risorse operative possono fare?",
+    "choices": ["Prospettiva dall'alto verso il basso", "Prospettiva bottom-up", "Prospettiva delle risorse operative", "Prospettiva dei requisiti di mercato"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una decisione strategica nelle operations?",
+    "choices": ["Capacità", "Supply networks", "Process technology", "Tutte le precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale dei seguenti è un fattore che influisce sulla strategia di marketing?",
+    "choices": ["Fattori tecnologici", "Fattori politici", "Fattori economici", "Tutti i precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Cosa rappresenta la curva del ciclo di vita del prodotto?",
+    "choices": ["Introduzione, crescita, maturità, declino", "Inizio, picco, plateau, declino", "Sviluppo, lancio, crescita, stabilità", "Inizio, sviluppo, picco, declino"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quali fattori determinano gli 'order winners'?",
+    "choices": ["Prezzo basso", "Alta qualità", "Flessibilità", "Tutti i precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è l'obiettivo principale della strategia operativa?",
+    "choices": ["Ridurre i costi", "Aumentare la produzione", "Riconciliare i requisiti di mercato con le capacità delle risorse operative", "Migliorare la qualità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è vera riguardo i 'qualifying factors'?",
+    "choices": ["Sono più importanti degli 'order winners'", "Possono escludere un prodotto dalla considerazione", "Determinano il prezzo di vendita", "Non influenzano la decisione d'acquisto"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è un esempio di prospettiva bottom-up nella strategia operativa?",
+    "choices": ["Cosa richiede la posizione di mercato", "Cosa suggerisce l'esperienza quotidiana", "Cosa richiedono i clienti", "Cosa può fare la tecnologia"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti non è una decisione strategica nelle operations?",
+    "choices": ["Sviluppo e organizzazione", "Process technology", "Valutazione del personale", "Supply networks"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica della strategia operativa di Apple?",
+    "choices": ["Basso costo", "Lunga durata dei prodotti", "Alta qualità", "Bassa flessibilità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è un esempio di prospettiva dall'alto verso il basso nella strategia operativa?",
+    "choices": ["Cosa suggerisce l'esperienza quotidiana", "Cosa richiede la posizione di mercato", "Cosa possono fare le risorse operative", "Cosa vogliono i dipendenti"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una decisione strategica nelle operations?",
+    "choices": ["Supply networks", "Process technology", "Qualità", "Tutte le precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale fattore non rientra nella strategia di marketing?",
+    "choices": ["Fattori tecnologici", "Fattori politici", "Fattori economici", "Fattori logistici"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Cosa rappresenta il ciclo di vita del prodotto?",
+    "choices": ["Introduzione, crescita, maturità, declino", "Inizio, picco, plateau, declino", "Sviluppo, lancio, crescita, stabilità", "Inizio, sviluppo, picco, declino"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quali fattori determinano gli 'order losers'?",
+    "choices": ["Prezzo alto", "Bassa qualità", "Scarsa flessibilità", "Tutti i precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è l'obiettivo principale della strategia operativa?",
+    "choices": ["Ridurre i costi", "Aumentare la produzione", "Riconciliare i requisiti di mercato con le capacità delle risorse operative", "Migliorare la qualità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è vera riguardo i 'qualifying factors'?",
+    "choices": ["Sono più importanti degli 'order winners'", "Possono escludere un prodotto dalla considerazione", "Determinano il prezzo di vendita", "Non influenzano la decisione d'acquisto"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è un esempio di prospettiva bottom-up nella strategia operativa?",
+    "choices": ["Cosa richiede la posizione di mercato", "Cosa suggerisce l'esperienza quotidiana", "Cosa richiedono i clienti", "Cosa può fare la tecnologia"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti non è una decisione strategica nelle operations?",
+    "choices": ["Sviluppo e organizzazione", "Process technology", "Valutazione del personale", "Supply networks"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica della strategia operativa di Apple?",
+    "choices": ["Basso costo", "Lunga durata dei prodotti", "Alta qualità", "Bassa flessibilità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è un esempio di prospettiva dall'alto verso il basso nella strategia operativa?",
+    "choices": ["Cosa suggerisce l'esperienza quotidiana", "Cosa richiede la posizione di mercato", "Cosa possono fare le risorse operative", "Cosa vogliono i dipendenti"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una decisione strategica nelle operations?",
+    "choices": ["Supply networks", "Process technology", "Qualità", "Tutte le precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale fattore non rientra nella strategia di marketing?",
+    "choices": ["Fattori tecnologici", "Fattori politici", "Fattori economici", "Fattori logistici"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Cosa rappresenta il ciclo di vita del prodotto?",
+    "choices": ["Introduzione, crescita, maturità, declino", "Inizio, picco, plateau, declino", "Sviluppo, lancio, crescita, stabilità", "Inizio, sviluppo, picco, declino"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quali fattori determinano gli 'order losers'?",
+    "choices": ["Prezzo alto", "Bassa qualità", "Scarsa flessibilità", "Tutti i precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è l'obiettivo principale della strategia operativa?",
+    "choices": ["Ridurre i costi", "Aumentare la produzione", "Riconciliare i requisiti di mercato con le capacità delle risorse operative", "Migliorare la qualità"],
+    "correctAnswer": 2
+  }
+]

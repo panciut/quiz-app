@@ -75,6 +75,17 @@
             resultDiv.className = 'alert alert-info';
             resultDiv.textContent = `Your score: ${score} / ${questions.length}`;
             quizContainer.appendChild(resultDiv);
+
+            const backButton = document.createElement('button');
+            backButton.className = 'btn btn-secondary my-3';
+            backButton.textContent = 'Back to File Selection';
+            backButton.onclick = resetQuiz;
+            quizContainer.appendChild(backButton);
+        }
+
+        function resetQuiz() {
+            document.getElementById('quiz').innerHTML = '';
+            document.getElementById('uploadForm').classList.remove('d-none');
         }
     </script>
 </head>

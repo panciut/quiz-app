@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quale delle seguenti è una fase del processo di approvvigionamento?",
+    "choices": ["Identificazione del problema", "Analisi dei rischi", "Definizione delle specifiche", "Gestione del budget"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è uno degli obiettivi degli acquisti secondo le slide?",
+    "choices": ["Aumentare il costo dei materiali", "Migliorare la qualità del prodotto", "Ridurre la quantità di fornitori", "Evitare la negoziazione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti descrive il 'riacquisto diretto'?",
+    "choices": ["Prodotto conosciuto e già in utilizzo da un fornitore già in contatto", "Servizio/prodotto nuovo da un fornitore diverso", "Richiede extensive problem solving", "Richiede la ricerca di molti fornitori"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è il primo passo del modello Buygrid?",
+    "choices": ["Acquisizione delle proposte", "Valutazione dei fornitori", "Anticipazione e riconoscimento del problema", "Selezione di una routine per l'ordine"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale fase non è inclusa nel processo di approvvigionamento secondo Van Weele (2004)?",
+    "choices": ["Definire specifiche", "Emettere ordine", "Monitorare ordine", "Analizzare il mercato"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti è una delle fasi strategiche del processo di approvvigionamento?",
+    "choices": ["Valutare fornitore", "Emettere ordine", "Monitorare ordine", "Identificare fornitore"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica della domanda non elastica nel contesto B2B?",
+    "choices": ["Rapporto diretto con l'end-user", "Elevata elasticità al prezzo nel breve termine", "Effetto Forrester", "Grossi ordinativi"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti non è una caratteristica del marketing Business to Business (B2B)?",
+    "choices": ["Domanda derivata", "Domanda non elastica", "Elevato numero di clienti", "Grossi ordinativi"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è un esempio di strategia di sourcing descritta nelle slide?",
+    "choices": ["Group sourcing", "Multi sourcing", "Exclusive sourcing", "Central sourcing"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica del riacquisto modificato?",
+    "choices": ["Prodotto completamente nuovo", "Insoddisfazione con l'attuale fornitore", "Bassa incertezza", "Richiede extensive problem solving"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Nel modello di Robinson, Faris e Wind, quale fase segue la 'descrizione delle caratteristiche e della quantità del prodotto/servizio richiesto'?",
+    "choices": ["Ricerca dei potenziali fornitori", "Acquisizione ed analisi delle proposte", "Valutazione delle proposte", "Selezione dei fornitori"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti affermazioni descrive il 'nuovo acquisto'?",
+    "choices": ["Richiede la selezione periodica dei fornitori", "Richiede attenzione nella definizione delle specifiche", "Prodotto conosciuto e già in utilizzo", "Richiede low problem solving"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è il ruolo degli acquisti nella catena del valore di Porter?",
+    "choices": ["Inbound logistics", "Operations", "Procurement", "Marketing & sales"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una delle fasi operative del processo di approvvigionamento secondo Van Weele?",
+    "choices": ["Definire specifiche", "Identificare fornitore", "Monitorare ordine", "Selezione e negoziazione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti strategie è associata al 'riacquisto diretto'?",
+    "choices": ["Nuovo problema o bisogno", "Evento ripetitivo", "Migliori alternative ai prodotti esistenti", "Insoddisfazione con l'attuale fornitore"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è vera riguardo il modello Buygrid?",
+    "choices": ["Include solo quattro fasi", "È applicabile solo al riacquisto diretto", "Descrive un processo di acquisto in otto fasi", "Non considera le specifiche del prodotto"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Nel contesto B2B, quale delle seguenti affermazioni è vera riguardo il numero di clienti ed intermediari?",
+    "choices": ["Numero di clienti ed intermediari è elevato", "Numero di clienti ed intermediari è inferiore", "Numero di clienti è elevato ma intermediari sono pochi", "Numero di intermediari è elevato ma clienti sono pochi"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti descrive il 'buying' nel contesto retail?",
+    "choices": ["Include tutte le sei fasi del processo", "Non considera la prima fase di definizione delle specifiche", "Riguarda solo la logistica e il trasporto", "È sinonimo di procurement"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una problematica maggiore nel processo di acquisto industriale?",
+    "choices": ["Eccessiva esperienza di contrattazione", "Troppa enfasi sul prezzo", "Troppa enfasi sulla qualità", "Scarsa conoscenza del mercato"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica del 'riacquisto modificato'?",
+    "choices": ["Evento ripetitivo", "Bassa incertezza", "Migliori alternative ai prodotti esistenti", "Poca o nessuna esperienza"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale fase del modello Buygrid coinvolge la valutazione delle proposte e la selezione dei fornitori?",
+    "choices": ["Descrizione delle caratteristiche", "Acquisizione ed analisi delle proposte", "Valutazione delle proposte", "Selezione di una routine per l'ordine"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è una caratteristica del processo di acquisto industriale?",
+    "choices": ["Processo semplice e lineare", "Coinvolge poche unità aziendali", "Richiede cooperazione e comunicazione", "Non richiede conoscenza tecnica"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti descrive il 'riacquisto diretto'?",
+    "choices": ["Richiede extensive problem solving", "Prodotto conosciuto e già in utilizzo", "Alto livello di incertezza", "Nuovo problema o bisogno"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una fase del processo di approvvigionamento secondo Van Weele (2004)?",
+    "choices": ["Analisi del mercato", "Selezione dei fornitori", "Valutazione delle proposte", "Ricerca dei potenziali clienti"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è una delle problematiche maggiori nel processo di acquisto industriale?",
+    "choices": ["Selezione inadeguata del fornitore", "Eccessiva esperienza di contrattazione", "Troppa enfasi sulla qualità", "Scarsa conoscenza del prodotto"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti è una delle fasi operative del processo di approvvigionamento secondo Van Weele?",
+    "choices": ["Selezione e negoziazione", "Identificare fornitore", "Monitorare ordine", "Definire specifiche"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti strategie è associata al 'nuovo acquisto'?",
+    "choices": ["Evento ripetitivo", "Prodotto conosciuto", "Alto livello di incertezza", "Bassa incertezza"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è vera riguardo il modello Buygrid?",
+    "choices": ["Include solo quattro fasi", "È applicabile solo al riacquisto modificato", "Descrive un processo di acquisto in otto fasi", "Non considera le specifiche del prodotto"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica del marketing Business to Business (B2B)?",
+    "choices": ["Domanda elastica", "Grossi ordinativi", "Rapporto diretto con l'end-user", "Elevato numero di clienti"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una delle fasi operative del processo di approvvigionamento?",
+    "choices": ["Valutare fornitore", "Identificare fornitore", "Definire specifiche", "Selezione e negoziazione"],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Quale delle seguenti è una strategia di sourcing?",
+    "choices": ["Single sourcing", "Group sourcing", "Exclusive sourcing", "Central sourcing"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Cos'è il 'sole sourcing'?",
+    "choices": ["Un approccio in cui il cliente fa riferimento a un unico fornitore non monopolista", "Un approccio in cui il cliente è legato a un unico fornitore monopolista", "Un approccio in cui il cliente utilizza più fornitori", "Un approccio in cui il cliente cambia fornitore frequentemente"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale vantaggio è associato al 'dual sourcing'?",
+    "choices": ["Maggior rischio di affidabilità", "Minore controllo sulla relazione", "Creazione di competizione tra fornitori", "Riduzione dei costi di transazione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti affermazioni descrive il 'multi sourcing'?",
+    "choices": ["Il cliente si affida a un unico fornitore dedicato", "Il cliente si affida a un unico fornitore indipendente", "Il cliente si affida contemporaneamente a più fornitori", "Il cliente non ha relazioni con i fornitori"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale modello è utilizzato per analizzare le relazioni tra cliente e fornitore?",
+    "choices": ["Modello di Fujimoto", "Modello di Smith", "Modello di Johnson", "Modello di Miller"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Nel modello di Fujimoto, cosa descrive il 'single sourcing da fornitore dedicato'?",
+    "choices": ["Relazione di indipendenza tra cliente e fornitore", "Predominanza del fornitore", "Interdipendenza reciproca", "Nessuna relazione tra cliente e fornitore"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è uno svantaggio del 'single sourcing'?",
+    "choices": ["Maggiore variabilità delle caratteristiche dei prodotti", "Dipendenza dal fornitore per tempi, costi e qualità", "Flusso logistico complesso", "Riduzione scorte"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è un vantaggio del 'multi sourcing'?",
+    "choices": ["Relazioni più solide e durature", "Maggiore potere contrattuale del fornitore", "Possibilità di cambiare fonte", "Semplificazione del controllo qualità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è l'obiettivo del Total Quality Management (TQM)?",
+    "choices": ["Eliminazione delle scorte", "Migliorare la qualità del prodotto attraverso stretta collaborazione con i fornitori", "Livellamento della produzione", "Sincronizzazione delle attività produttive"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è un obiettivo del Just In Time (JIT)?",
+    "choices": ["Aumentare le scorte", "Sincronizzazione delle attività produttive", "Ridurre la qualità del prodotto", "Aumentare i costi amministrativi"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una strategia di approvvigionamento basata sull'analisi approfondita dei prodotti acquistati?",
+    "choices": ["Approccio indifferenziato", "Approccio differenziato", "Approccio centralizzato", "Approccio decentralizzato"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale matrice è utilizzata per la valutazione di strategie di sourcing differenziate?",
+    "choices": ["Matrice di Kraljic", "Matrice di Porter", "Matrice di Smith", "Matrice di Johnson"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale modello normativo in tre step è stato sviluppato da Olsen ed Ellram?",
+    "choices": ["Modello di Kraljic", "Modello di Porter", "Modello di Scott", "Modello di Olsen ed Ellram"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti dimensioni chiave è utilizzata per l'analisi degli acquisti nel modello di Olsen ed Ellram?",
+    "choices": ["Fattori sociali", "Importanza strategica dell'acquisto", "Compatibilità culturale", "Disponibilità di fornitori"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è una delle quattro categorie di acquisto nella matrice di Kraljic?",
+    "choices": ["Acquisto esclusivo", "Acquisto critico", "Acquisto di massa", "Acquisto leva"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti categorie di acquisto è caratterizzata da qualità standardizzata e disponibilità di diversi fornitori?",
+    "choices": ["Acquisto strategico", "Acquisto leva", "Acquisto collo di bottiglia", "Acquisto non critico"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è l'obiettivo principale dell'acquisto strategico nella matrice di Kraljic?",
+    "choices": ["Ridurre i costi amministrativi", "Stabilire strette relazioni con il fornitore", "Eliminare i fornitori", "Aumentare le scorte"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti descrive l'acquisto collo di bottiglia?",
+    "choices": ["Acquisto di alta importanza strategica e bassa difficoltà di gestione", "Acquisto di bassa importanza strategica e alta difficoltà di gestione", "Acquisto di alta importanza strategica e alta difficoltà di gestione", "Acquisto di bassa importanza strategica e bassa difficoltà di gestione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno degli strumenti suggeriti da Olsen ed Ellram per rafforzare la relazione con i fornitori?",
+    "choices": ["Ridurre il volume di ordinativi", "Migliorare la comunicazione", "Eliminare la competizione", "Standardizzare i prodotti"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno degli obiettivi della riduzione delle risorse allocate alla relazione nel modello di Olsen ed Ellram?",
+    "choices": ["Aumentare il numero di fornitori", "Migliorare l'attrattività del fornitore", "Ridurre i costi di gestione", "Aumentare le scorte"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale fattore descrive l'attrattività relativa del fornitore nel modello di Olsen ed Ellram?",
+    "choices": ["Volume o valore monetario dell'acquisto", "Flessibilità", "Competenza tecnologica", "Senso di fiducia nella relazione"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale fattore descrive la forza della relazione nel modello di Olsen ed Ellram?",
+    "choices": ["Stabilità finanziaria del fornitore", "Volume di ordinativi", "Compatibilità strategica tra cliente e fornitore", "Velocità di sviluppo nuovi prodotti"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti strategie è associata agli acquisti non critici nella matrice di Kraljic?",
+    "choices": ["Partnership", "Sole sourcing", "Minimizzare i costi di gestione", "Dual sourcing"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una delle dimensioni chiave per l'analisi delle relazioni nel modello di Olsen ed Ellram?",
+    "choices": ["Competenza tecnologica", "Compatibilità culturale", "Forza della relazione", "Flessibilità"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti strategie non è associata al 'multi sourcing'?",
+    "choices": ["Competizione tra fornitori", "Relazioni più solide e durature", "Maggiore flessibilità", "Riduzione delle scorte"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è un esempio di strategia di approvvigionamento errata?",
+    "choices": ["Approccio indifferenziato", "Approccio differenziato", "Approccio dinamico", "Approccio flessibile"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti descrive il 'dual sourcing'?",
+    "choices": ["Il cliente si affida a un unico fornitore monopolista", "Il cliente si affida contemporaneamente a più fornitori", "Il cliente acquista da due fonti per limitare il rischio", "Il cliente non ha relazioni con i fornitori"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti strategie è utilizzata per creare competizione tra fornitori?",
+    "choices": ["Single sourcing", "Sole sourcing", "Multi sourcing", "Parallel sourcing"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti affermazioni descrive il 'single sourcing da fornitore indipendente'?",
+    "choices": ["Cliente e fornitore sono dipendenti l'uno dall'altro", "Fornitore unico non dedicato con predominanza del fornitore", "Relazione di interdipendenza reciproca", "Indipendenza totale senza collaborazioni"],
+    "correctAnswer": 1
+  }
+]
