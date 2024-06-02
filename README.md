@@ -20,7 +20,7 @@ This is a simple Quiz App built with Node.js and Express that allows users to up
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/panciut/quiz-app.git
    ```
 
 2. Change into the project directory:
@@ -110,7 +110,5 @@ This project is licensed under the MIT License.
 
 ```
 
-### Additional Notes
 
-Make sure to replace the repository URL in the `git clone` command with the actual URL of your repository if you plan to host this project on a platform like GitHub. This `README.md` provides all necessary instructions to set up and use the Quiz App, including the required JSON file format and project structure.
-```
+
