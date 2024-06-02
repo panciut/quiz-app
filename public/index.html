@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script>
+        function handleFileUpload(event) {
+            event.preventDefault();
+            const formData = new FormData(event.target);
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => response.json())
+                .then(data => {
+                    displayQuestions(data);
+                    document.getElementById('uploadForm').classList.add('d-none');
+                })
+                .catch(error => console.error('Error:', error));
+        }
+
+        function displayQuestions(questions) {
+            const quizContainer = document.getElementById('quiz');
+            quizContainer.innerHTML = '';
+            questions.forEach((question, index) => {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'card my-3';
+                questionDiv.innerHTML = `
+          <div class="card-body">
+            <h5 class="card-title">${question.question}</h5>
+            ${question.choices.map((choice, i) => `
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="question${index}" value="${i}" id="question${index}choice${i}">
+                <label class="form-check-label" for="question${index}choice${i}">
+                  ${choice}
+                </label>
+              </div>
+            `).join('')}
+          </div>
+        `;
+                quizContainer.appendChild(questionDiv);
+            });
+            const verifyButton = document.createElement('button');
+            verifyButton.className = 'btn btn-primary my-3';
+            verifyButton.textContent = 'Verify Answers';
+            verifyButton.onclick = () => verifyAnswers(questions);
+            quizContainer.appendChild(verifyButton);
+        }
+
+        function verifyAnswers(questions) {
+            const quizContainer = document.getElementById('quiz');
+            let score = 0;
+            questions.forEach((question, index) => {
+                const selected = document.querySelector(`input[name="question${index}"]:checked`);
+                const questionDiv = document.querySelectorAll('.card')[index];
+                if (selected) {
+                    const isCorrect = parseInt(selected.value) === question.correctAnswer;
+                    if (isCorrect) {
+                        score++;
+                        selected.parentElement.classList.add('bg-success', 'text-white');
+                    } else {
+                        selected.parentElement.classList.add('bg-danger', 'text-white');
+                        const correctAnswer = questionDiv.querySelector(`input[value="${question.correctAnswer}"]`).parentElement;
+                        correctAnswer.classList.add('bg-success', 'text-white');
+                    }
+                } else {
+                    const correctAnswer = questionDiv.querySelector(`input[value="${question.correctAnswer}"]`).parentElement;
+                    correctAnswer.classList.add('bg-success', 'text-white');
+                }
+            });
+            const resultDiv = document.createElement('div');
+            resultDiv.className = 'alert alert-info';
+            resultDiv.textContent = `Your score: ${score} / ${questions.length}`;
+            quizContainer.appendChild(resultDiv);
+        }
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="my-4">Quiz App</h1>
+        <form id="uploadForm" onsubmit="handleFileUpload(event)" class="mb-4">
+            <div class="form-group">
+                <label for="fileInput">Select a JSON file with quiz questions from your computer:</label>
+                <input type="file" name="questions" id="fileInput" accept=".json" class="form-control-file" required>
+            </div>
+            <button type="submit" class="btn btn-success">Upload</button>
+        </form>
+        <div id="quiz"></div>
+    </div>
+</body>
+
+</html>

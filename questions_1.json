@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "choices": ["Harper Lee", "Mark Twain", "J.K. Rowling", "Ernest Hemingway"],
+    "correctAnswer": 0
+  }
+]
