@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Qual è il principio fondamentale nella redazione del bilancio?",
+    "choices": ["Innovazione", "Competenza economica", "Semplicità", "Espansione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quali sono le tre componenti principali del bilancio?",
+    "choices": ["Stato patrimoniale, Conto economico, Nota integrativa", "Ricavi, Costi, Utile", "Attivo, Passivo, Patrimonio netto", "Bilancio consolidato, Bilancio di esercizio, Bilancio straordinario"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Cosa rappresenta il valore della produzione nel conto economico?",
+    "choices": ["Il valore delle vendite nette", "Il valore complessivo dei beni prodotti o servizi resi", "Il valore degli investimenti", "Il valore delle passività"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una categoria dei costi di produzione?",
+    "choices": ["Ammortamenti e svalutazioni", "Ricavi delle vendite", "Utile d'esercizio", "Patrimonio netto"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Cosa rappresentano i proventi e oneri finanziari nel bilancio?",
+    "choices": ["Costi di produzione", "Entrate e spese finanziarie", "Valore della produzione", "Rettifiche di valore"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale indice misura la capacità dell'azienda di far fronte ai debiti a breve termine con attività già liquide?",
+    "choices": ["ROI", "ROA", "Indice di liquidità (IL)", "Indice di solidità (IS)"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti affermazioni descrive l'analisi di bilancio?",
+    "choices": ["Valutazione delle scorte aziendali", "Trattamento dei dati contenuti nello stato patrimoniale e nel conto economico", "Elaborazione del budget annuale", "Gestione delle risorse umane"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cosa rappresenta il margine di tesoreria (MT)?",
+    "choices": ["La capacità di coprire le immobilizzazioni con mezzi propri", "La capacità di far fronte al pagamento dei debiti a breve termine grazie alle liquidità", "La redditività delle vendite", "Il totale delle passività"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una fase del processo di analisi di bilancio?",
+    "choices": ["Valutazione delle performance dei dipendenti", "Riclassificazione del bilancio", "Gestione delle operazioni di marketing", "Analisi delle previsioni di vendita"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è lo scopo principale della nota integrativa nel bilancio?",
+    "choices": ["Rappresentare la situazione patrimoniale", "Offrire informazioni dettagliate e motivazioni relative all'inclusione di determinate voci", "Determinare il valore delle azioni", "Calcolare l'utile netto"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale indice di struttura finanziaria misura la capacità di coprire le immobilizzazioni con mezzi propri?",
+    "choices": ["Indice di liquidità (IL)", "Indice di solidità (IS)", "Indice di struttura primario (ISP)", "Return on Sales (ROS)"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una delle categorie di proventi e oneri finanziari?",
+    "choices": ["Proventi da partecipazioni", "Costi del personale", "Ricavi delle vendite", "Ammortamenti e svalutazioni"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Cosa rappresenta il Return on Investments (ROI)?",
+    "choices": ["Il rendimento degli investimenti rispetto al capitale impiegato", "La capacità di far fronte ai debiti a breve termine", "Il totale delle entrate finanziarie", "La capacità di coprire le immobilizzazioni con mezzi propri"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è l'indice che misura la redditività delle vendite?",
+    "choices": ["ROI", "ROA", "ROS", "ROD"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti è una caratteristica del capitale circolante netto (CCN)?",
+    "choices": ["Rappresenta il totale delle immobilizzazioni", "Misura la capacità di far fronte agli impegni di breve periodo attraverso le attività correnti", "Indica il valore degli investimenti a lungo termine", "Rappresenta il totale delle passività"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cosa rappresenta l'indice di solidità (IS)?",
+    "choices": ["Il grado di autonomia dell'azienda da fonti di finanziamento esterne", "La capacità di coprire le immobilizzazioni con mezzi propri", "La redditività degli investimenti", "La capacità di far fronte ai debiti a breve termine"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti componenti è inclusa nelle attività immobilizzate (AI)?",
+    "choices": ["Rimanenze", "Liquidità immediata", "Immobilizzazioni nette", "Ratei e risconti passivi"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è uno degli obiettivi della riclassificazione del bilancio?",
+    "choices": ["Aumentare le vendite", "Ridurre i costi operativi", "Fornire una rappresentazione più chiara e dettagliata della situazione finanziaria dell'azienda", "Gestire le risorse umane"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Cosa rappresenta il Return on Debts (ROD)?",
+    "choices": ["Il rendimento degli investimenti", "Il costo del debito rispetto al totale delle passività", "La capacità di far fronte ai debiti a breve termine", "La redditività delle vendite"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è l'indice che misura la capacità di coprire le immobilizzazioni con mezzi propri?",
+    "choices": ["Indice di solidità (IS)", "Indice di struttura primario (ISP)", "Return on Sales (ROS)", "Indice di liquidità (IL)"],
+    "correctAnswer": 1
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Qual è il principio fondamentale del successo di Zara?",
+    "choices": ["Investire in pubblicità", "Controllare l'intera catena di approvvigionamento", "Aumentare i prezzi dei prodotti", "Esternalizzare tutta la produzione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è il vantaggio competitivo di Zara rispetto ai suoi concorrenti?",
+    "choices": ["Prezzi più bassi", "Maggiore varietà di prodotti", "Tempi di risposta rapidi", "Migliore qualità dei tessuti"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Come descrive il case study la rete di approvvigionamento di Zara?",
+    "choices": ["Rete lenta e inefficiente", "Superresponsiva", "Dipendente da fornitori esterni", "Centrata solo in Europa"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quante nuove design vengono create da Zara ogni anno?",
+    "choices": ["Circa 1,000", "Circa 10,000", "Circa 20,000", "Circa 40,000"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale percentuale delle vendite di Zara viene dai suoi negozi al dettaglio?",
+    "choices": ["50%", "60%", "70%", "85%"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale filosofia ha adottato Zara per gestire la produzione?",
+    "choices": ["Economia di scala", "Produzione in grandi lotti", "Produzione in piccoli lotti", "Produzione just-in-time"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Cosa evita Zara mantenendo bassi i livelli di inventario?",
+    "choices": ["Alti costi di stoccaggio", "Stock-out", "Sovrapproduzione", "Bassi costi di produzione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Perché Zara utilizza un sistema di produzione flessibile?",
+    "choices": ["Per ridurre i costi di produzione", "Per aumentare la qualità", "Per rispondere rapidamente ai cambiamenti della domanda", "Per migliorare la distribuzione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è il risultato del ritmo preciso delle operazioni di Zara?",
+    "choices": ["Riduzione delle scorte", "Aumento della varietà dei prodotti", "Maggiore velocità di produzione", "Tutte le precedenti"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è uno dei vantaggi principali di controllare la produzione internamente per Zara?",
+    "choices": ["Migliore qualità", "Maggiori profitti", "Maggiore controllo sui tempi di consegna", "Maggiore varietà di tessuti"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Come evita Zara i costi elevati associati alle scorte invendute?",
+    "choices": ["Aumentando i prezzi", "Vendendo in lotti grandi", "Introducendo nuovi prodotti frequentemente", "Riducendo la produzione"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è vera riguardo la gestione degli ordini di Zara?",
+    "choices": ["Gli ordini possono essere modificati solo una volta alla settimana", "Gli ordini devono essere effettuati con largo anticipo", "Gli ordini possono essere modificati fino al 50% una volta che la stagione è iniziata", "Gli ordini vengono effettuati solo al termine della stagione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è una delle caratteristiche uniche dei negozi Zara?",
+    "choices": ["Grandi quantità di scorte", "Articoli esclusivi in quantità limitate", "Prezzi sempre scontati", "Nessuna pubblicità"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è l'effetto della frequente introduzione di nuovi prodotti sui clienti Zara?",
+    "choices": ["Riduzione delle visite in negozio", "Maggiore fedeltà dei clienti", "Aumento dei costi di marketing", "Diminuzione delle vendite"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Perché Zara investe in capacità extra nei suoi centri di distribuzione?",
+    "choices": ["Per ridurre i costi", "Per rispondere rapidamente a picchi di domanda", "Per aumentare la produzione", "Per migliorare la qualità"],
+    "correctAnswer": 1
+  }
+]

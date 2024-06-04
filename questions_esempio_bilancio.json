@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Quale indice esprime la capacità dell'azienda di far fronte agli impegni di breve periodo attraverso le attività correnti?",
+    "choices": ["Indice di solidità", "Margine di struttura", "Capitale circolante netto", "Rapporto corrente"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale indice misura la redditività del capitale investito?",
+    "choices": ["ROE", "ROI", "ROS", "RCI"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale formula rappresenta il Margine di Tesoreria (MT)?",
+    "choices": ["MT = AC - PC", "MT = PN - AI", "MT = (LD + LI) - PC", "MT = Rv - Rc"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale delle seguenti descrive correttamente il rapporto corrente?",
+    "choices": ["Rapporto corrente = AC / PC", "Rapporto corrente = PN / K", "Rapporto corrente = Rn / Ro", "Rapporto corrente = AC / Pb"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Come si calcola il Margine Operativo Lordo (MOL)?",
+    "choices": ["MOL = valore della produzione - costo del lavoro", "MOL = valore aggiunto - costo del lavoro", "MOL = valore aggiunto - accantonamenti", "MOL = valore della produzione - costi esterni"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è la formula per il Margine Operativo Netto (MON)?",
+    "choices": ["MON = MOL - (ammortamenti + accantonamenti)", "MON = ROI - ROD", "MON = RCI * K", "MON = Rn - Ro"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è il significato di ROD?",
+    "choices": ["Return on Development", "Return on Debt", "Rate of Discount", "Ratio of Dividends"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale formula esprime il Valore Aggiunto Lordo (VAL)?",
+    "choices": ["VAL = valore della produzione - costo del lavoro", "VAL = valore aggiunto - costi di produzione", "VAL = valore della produzione - costo dei consumi", "VAL = MOL - accantonamenti"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale indice di liquidità è più restrittivo del Rapporto Corrente?",
+    "choices": ["Indice di solidità", "Test Acido", "Margine di struttura", "Capitale circolante netto"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Come si calcola l'indice di rigidità degli impieghi?",
+    "choices": ["Elasticità degli impieghi = AC / K", "Leverage = K / PN", "Rigidità degli impieghi = AI / K", "Autonomia finanziaria = PN / K"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale formula descrive correttamente il ROI?",
+    "choices": ["ROI = Ro / K", "ROI = Rv / K", "ROI = Of / Db", "ROI = Rn / PN"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale indice esprime il grado di dipendenza finanziaria dell'azienda dal capitale di terzi?",
+    "choices": ["Indice di liquidità", "Indice di elasticità", "Indice di autonomia finanziaria", "Indice di dipendenza finanziaria"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Qual è la formula per calcolare il ROS?",
+    "choices": ["ROS = Rv / K", "ROS = Ro / Rv", "ROS = Of / Db", "ROS = Rn / Ro"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cosa rappresenta l'indice di autonomia finanziaria?",
+    "choices": ["La capacità di far fronte agli impegni di breve termine", "Il rapporto tra patrimonio netto e capitale investito", "La misura dei debiti rispetto al capitale investito", "Il margine operativo netto"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale formula rappresenta il Capitale Circolante Netto (CCN)?",
+    "choices": ["CCN = AC - PC", "CCN = PN - AI", "CCN = LD + LI", "CCN = Ro - Rv"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale indice misura la capacità dell'impresa di trasformare in ricavi il capitale investito?",
+    "choices": ["RCI", "ROE", "ROD", "ROS"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è la formula del Leverage?",
+    "choices": ["Leverage = K / PN", "Leverage = PN / K", "Leverage = (PC + pb) / PN", "Leverage = AC / PC"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale indice segnala il contributo della gestione non caratteristica alla determinazione del reddito netto d'esercizio?",
+    "choices": ["ROI", "ROS", "RCI", "TIGNC"],
+    "correctAnswer": 3
+  }
+]

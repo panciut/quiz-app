@@ -1,0 +1,129 @@
+[
+  {
+    "question": "Qual è uno degli obiettivi principali di Six Sigma?",
+    "choices": ["Offrire prodotti di alta qualità al minor costo", "Aumentare la produzione", "Ridurre i costi di marketing", "Eliminare completamente i difetti"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Cosa rappresenta il livello sigma in Six Sigma?",
+    "choices": ["Il numero di difetti per milione di opportunità", "Il costo totale del processo", "Il tempo di produzione", "La qualità percepita dal cliente"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale ciclo di miglioramento è utilizzato in Six Sigma?",
+    "choices": ["PDCA", "DMAIC", "SWOT", "PERT"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale fase del ciclo DMAIC si occupa di raccogliere dati e misurare input e output?",
+    "choices": ["Define", "Measure", "Analyze", "Control"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale strumento è noto anche come diagramma di Ishikawa?",
+    "choices": ["Diagramma di flusso", "Diagramma causa-effetto", "Diagramma di Pareto", "Diagramma a dispersione"],
+    "correctAnswer": 1
+  },
+
+  {
+    "question": "Qual è il principale obiettivo della Lean Manufacturing?",
+    "choices": ["Aumentare le scorte", "Eliminare gli sprechi", "Ridurre la qualità", "Aumentare i tempi di produzione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno dei sette tipi di spreco identificati da Ohno?",
+    "choices": ["Produzione eccessiva", "Alta qualità", "Bassi costi", "Elevata soddisfazione del cliente"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale metodo viene utilizzato per migliorare la sincronizzazione del flusso produttivo?",
+    "choices": ["Push system", "Pull system", "Batch production", "Continuous flow"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cosa rappresenta il concetto di 'Just-In-Time'?",
+    "choices": ["Produzione basata sulla domanda effettiva", "Produzione basata sulle previsioni", "Aumento delle scorte di sicurezza", "Riduzione dei costi di marketing"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quali sono le 5S nel Lean Management?",
+    "choices": ["Sorting, Set in order, Sweeping, Standardization, Self-Discipline", "Sourcing, Storing, Shipping, Selling, Sustaining", "Saving, Scheduling, Staffing, Supplying, Supporting", "Sorting, Supplying, Storing, Shipping, Sustaining"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Chi ha sviluppato il Toyota Production System?",
+    "choices": ["Taiichi Ohno", "Henry Ford", "Sakichi Toyoda", "Eiji Toyoda"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale filosofia si basa sulla eliminazione degli sprechi e sul rispetto per le persone?",
+    "choices": ["Six Sigma", "Lean Manufacturing", "Total Quality Management", "Kaizen"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale strumento è utilizzato per mappare il flusso del valore in Lean Management?",
+    "choices": ["Diagramma di Pareto", "Diagramma di Ishikawa", "Value Stream Mapping", "Diagramma a dispersione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è l'obiettivo del metodo 'Single Minute Exchange of Dies' (SMED)?",
+    "choices": ["Aumentare la qualità del prodotto", "Ridurre i tempi di setup", "Aumentare la varietà dei prodotti", "Ridurre i costi di produzione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è una delle caratteristiche principali del sistema Kanban?",
+    "choices": ["Sistema push", "Sistema pull", "Sistema a batch", "Sistema continuo"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una definizione di qualità proposta da Garvin?",
+    "choices": ["Qualità del prodotto", "Qualità basata sul valore", "Qualità dei processi", "Qualità del servizio"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale standard internazionale è applicabile a tutte le organizzazioni per la gestione della qualità?",
+    "choices": ["ISO 9001", "ISO 14001", "ISO 27001", "ISO 45001"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale modello è utilizzato per misurare la percezione della qualità del servizio rispetto alle aspettative?",
+    "choices": ["ServQual", "Six Sigma", "PDCA", "TQM"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è uno degli otto principi di gestione della qualità ISO 9001?",
+    "choices": ["Leadership", "Profitto", "Espansione", "Innovazione"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti è una delle dimensioni della qualità secondo l'American Society for Quality Control?",
+    "choices": ["Prezzo", "Affidabilità", "Distribuzione", "Promozione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale modello rappresenta l'ottimizzazione della qualità nel tempo?",
+    "choices": ["Cono di sabbia", "PDCA", "Ishikawa", "Pareto"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è lo scopo principale della certificazione ISO 9001?",
+    "choices": ["Migliorare i profitti", "Garantire la conformità ai requisiti di qualità", "Aumentare le vendite", "Ridurre i costi"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale strumento è utilizzato per identificare le cause dei problemi nella gestione della qualità?",
+    "choices": ["Diagramma di flusso", "Diagramma di Ishikawa", "Diagramma di Pareto", "Diagramma a dispersione"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti è una dimensione della qualità?",
+    "choices": ["Costo", "Prestazioni", "Volume", "Capacità"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno dei principi chiave del Total Quality Management (TQM)?",
+    "choices": ["Enfasi sui profitti", "Coinvolgimento di tutti i dipendenti", "Aumento delle scorte", "Riduzione del personale"],
+    "correctAnswer": 1
+  }
+]
+

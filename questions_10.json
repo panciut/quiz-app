@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Cosa indica la digitalizzazione in ambito aziendale?",
+    "choices": ["L'impiego di tecnologie digitali per trasformare processi aziendali e modelli di business", "La mera conversione di informazioni dal formato analogico a quello digitale", "L'uso di Internet per il marketing aziendale", "L'automatizzazione delle operazioni finanziarie"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è la differenza tra digitizzazione e digitalizzazione?",
+    "choices": ["Digitizzazione è la conversione di informazioni, digitalizzazione è la trasformazione di processi aziendali", "Digitizzazione è la trasformazione di processi aziendali, digitalizzazione è la conversione di informazioni", "Sono sinonimi", "Digitizzazione è la digitalizzazione delle comunicazioni aziendali"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti è una delle tecnologie abilitanti dell'Industria 4.0?",
+    "choices": ["Blockchain", "E-commerce", "Social Media", "Email Marketing"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è uno degli impatti della digitalizzazione sui processi aziendali?",
+    "choices": ["Riduzione della qualità dei prodotti", "Aumento dei costi operativi", "Miglioramento dell'efficienza operativa", "Riduzione della produttività"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è una caratteristica della quarta rivoluzione industriale (Industria 4.0)?",
+    "choices": ["Meccanizzazione", "Produzione di massa", "Cyber-physical systems", "Elettricità"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale di queste tecnologie è parte integrante dell'Industria 4.0?",
+    "choices": ["Stampa 3D", "Televisione analogica", "Fax", "Scrittura a mano"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è uno dei principali vantaggi della digitalizzazione per i clienti?",
+    "choices": ["Esperienza del cliente più fluida e personalizzata", "Aumento dei prezzi", "Riduzione della varietà di prodotti", "Maggiori tempi di attesa"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è l'obiettivo della fabbrica intelligente nell'Industria 4.0?",
+    "choices": ["Aumentare la manualità del lavoro", "Ridurre la flessibilità", "Migliorare la produttività, l'efficienza e la flessibilità", "Diminuire la digitalizzazione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale tecnologia utilizza l'Adige BLM Group per identificare deformazioni nei tubi?",
+    "choices": ["Blockchain", "Computer Vision", "Stampa 3D", "Realtà Aumentata"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno dei benefici dell'uso dell'AI nella pianificazione della produzione?",
+    "choices": ["Aumento del personale", "Decisoni basate sui dati", "Riduzione della qualità", "Aumento delle scorte"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cosa rappresenta la 'Mass customization' nell'Industria 5.0?",
+    "choices": ["Produzione di massa con personalizzazione", "Produzione manuale", "Produzione senza automazione", "Produzione senza personalizzazione"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti tecnologie è utilizzata per la simulazione di scenari 'what-if'?",
+    "choices": ["Digital Twin", "Blockchain", "Big Data", "Cloud"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale tecnologia abilitante consente una produzione intelligente e la creazione di fabbriche intelligenti?",
+    "choices": ["Cyber-physical systems", "Telecomunicazioni analogiche", "Carta stampata", "Fax"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è l'impatto della digitalizzazione sulle risorse umane?",
+    "choices": ["Riduzione del numero di dipendenti", "Automazione dei colloqui preliminari e valutazione curriculum", "Aumento della complessità del lavoro", "Diminuzione della produttività"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale impatto ha avuto l'AI sull'Adige BLM Group?",
+    "choices": ["Miglioramento della previsione di domanda e della pianificazione della produzione", "Aumento dei costi di produzione", "Riduzione dell'innovazione", "Diminuzione della qualità dei prodotti"],
+    "correctAnswer": 0
+  }
+]

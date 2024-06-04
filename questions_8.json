@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Qual è l'obiettivo principale del Supply Chain Management?",
+    "choices": ["Aumentare le vendite", "Ridurre i costi", "Ottimizzare l'integrazione di fornitori, fabbriche, magazzini e negozi", "Espandere la produzione"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Cos'è l'effetto Bullwhip nella supply chain?",
+    "choices": ["Aumento dei costi di trasporto", "Riduzione della qualità del prodotto", "Amplificazione delle variazioni degli ordini lungo la supply chain", "Aumento della domanda dei clienti"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale strategia utilizza Barilla per ridurre l'impatto ambientale nella supply chain?",
+    "choices": ["Aumentare i prezzi", "Ridurre la produzione", "Integrare l'approccio sostenibile nel procurement", "Eliminare i fornitori"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quale modello viene utilizzato per adattare la strategia di supply chain al tipo di prodotto?",
+    "choices": ["Modello di Porter", "Modello di Fisher", "Modello SWOT", "Modello PEST"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quali sono gli strumenti e le strategie per l'ottimizzazione della supply chain?",
+    "choices": ["Decision Support Systems, Inventory Control, Network Design, Cross Docking", "Public Relations, Marketing, Advertising, Branding", "Research, Development, Innovation, Expansion", "Customer Service, Sales, Distribution, Pricing"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è una delle sfide della Just-In-Time (JIT) nella supply chain?",
+    "choices": ["Richiede consegne frequenti", "Aumenta i costi di produzione", "Riduce la qualità del prodotto", "Diminuisce la flessibilità"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quale delle seguenti tecnologie aiuta a ridurre l'effetto Bullwhip?",
+    "choices": ["Blockchain", "E-commerce", "Big Data", "Intelligenza Artificiale"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cosa implica l'approccio Pull nella gestione della supply chain?",
+    "choices": ["Produzione basata sulla domanda effettiva", "Produzione basata sulle previsioni", "Aumento delle scorte", "Riduzione delle scorte"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è una caratteristica della supply chain agile?",
+    "choices": ["Alta standardizzazione", "Bassi costi operativi", "Alta flessibilità e risposta rapida ai cambiamenti", "Bassa variabilità dei prodotti"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è uno dei principali vantaggi della gestione della supply chain integrata?",
+    "choices": ["Aumento dei prezzi", "Riduzione dei tempi di consegna", "Maggiore indipendenza tra i partner", "Aumento delle scorte"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno degli strumenti utilizzati per la previsione collaborativa nella supply chain?",
+    "choices": ["Vendor-managed inventory", "Marketing research", "SWOT analysis", "Lean management"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Qual è l'obiettivo della strategia Lean nella supply chain?",
+    "choices": ["Massimizzare le scorte", "Ridurre gli sprechi", "Aumentare i costi di produzione", "Ridurre la flessibilità"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale approccio viene utilizzato per gestire l'incertezza nella supply chain?",
+    "choices": ["Forecasting", "Risk Pooling", "Increasing Inventory", "Reducing Workforce"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti pratiche è associata alla supply chain sostenibile?",
+    "choices": ["Aumentare le emissioni di CO2", "Aumentare il consumo energetico", "Ridurre l'impatto ambientale", "Utilizzare solo fornitori locali"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Qual è uno degli effetti del Bullwhip sulla performance della supply chain?",
+    "choices": ["Riduzione dei costi di produzione", "Aumento delle scorte e dei tempi di consegna", "Maggiore accuratezza nelle previsioni", "Miglioramento della qualità dei prodotti"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti strategie può mitigare l'effetto Bullwhip?",
+    "choices": ["Aumentare i tempi di consegna", "Collaborative forecasting", "Ridurre la comunicazione tra i partner", "Aumentare le scorte"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno degli elementi chiave della supply chain agile secondo Lee (2007)?",
+    "choices": ["Riduzione dei costi", "Velocità e flessibilità", "Riduzione della varietà dei prodotti", "Aumento della produzione di massa"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale delle seguenti affermazioni descrive meglio l'approccio Postponement nella supply chain?",
+    "choices": ["Produrre in grandi lotti", "Ritardare la differenziazione del prodotto fino all'ultimo momento possibile", "Aumentare le scorte", "Ridurre la varietà dei prodotti"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qual è uno degli obiettivi della centralizzazione nella supply chain?",
+    "choices": ["Aumentare i costi operativi", "Ridurre la variabilità della domanda aggregata", "Aumentare la complessità della gestione", "Ridurre la flessibilità operativa"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quale approccio combina gli elementi delle strategie Lean e Agile?",
+    "choices": ["JIT", "Pull System", "Postponement", "Cross Docking"],
+    "correctAnswer": 2
+  }
+]
